@@ -1,7 +1,7 @@
 
 <div>
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=nanosuke&count_private=true&show_icons=true&theme=cobalt2" /></p>
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosuke&theme=cobalt2&layout=compact" />
+  <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api?username=nanosuke&count_private=true&show_icons=true&theme=cobalt2" /></p>
+  <img align="left" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosuke&theme=cobalt2&layout=compact" />
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
