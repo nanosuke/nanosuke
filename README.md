@@ -1,11 +1,9 @@
  <div style="display: flex;">
  
-    <!--Github stats card-->
-    <img style="margin: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=nanosuke&count_private=true&show_icons=true&theme=cobalt2" />
+  <!--Github stats card-->
+  <img style="margin: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=nanosuke&count_private=true&show_icons=true&theme=cobalt2" />
  
  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <!--Top languages card-->
-    <img style="margin: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosuke&theme=cobalt2&layout=compact" />
-  </a>
+  <!--Top languages card-->
+  <img style="margin: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanosuke&theme=cobalt2&layout=compact" />
 </div>
